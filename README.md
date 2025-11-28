@@ -64,6 +64,8 @@ Deployed : Open https://eterna-axiom-traders.vercel.app/ with your browser to se
 | `src/lib/mockData.ts` | Contains `generateMockTokens` for initial data generation. |
 | `src/services/websocketMock.ts` | Mock WebSocket implementation for simulating real-time price updates. |
 | `src/app/globals.css` | Global styles, including Tailwind configuration and the Axiom Trade dark color palette. |
+![My Image](https://github.com/AnoopKeepCoding/Eterna-Axiom-Traders/blob/main/Screenshot%202025-11-28%20172323.png)
+![My Image](https://github.com/AnoopKeepCoding/Eterna-Axiom-Traders/blob/main/Screenshot%202025-11-28%20171810.png)
 
 ## Learn More
 
